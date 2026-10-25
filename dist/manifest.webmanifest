@@ -1,0 +1,31 @@
+{
+  "name": "Épargne 10K",
+  "short_name": "Épargne 10K",
+  "description": "Budget personnel et objectif d'épargne",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101a2d",
+  "theme_color": "#101a2d",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "purpose": "any maskable",
+      "src": "./icon-192.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "purpose": "any maskable",
+      "src": "./icon-512.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "any",
+      "purpose": "any",
+      "src": "./icon.svg",
+      "type": "image/svg+xml"
+    }
+  ]
+}
